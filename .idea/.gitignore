@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../ArtTherapie\.idea/codestream.xml
+# Datasource local storage ignored files
+/../../../../../:\wamp64\www\ArtTherapie\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
